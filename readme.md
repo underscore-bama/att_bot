@@ -4,6 +4,7 @@ used for fetching modlog and modqueue and pushing to discord embed for better mo
 
 # depends
 [discord.py](https://discordpy.readthedocs.io/en/stable/)
+
 [asyncpraw](https://asyncpraw.readthedocs.io/en/stable/)
 
 # roadmap
